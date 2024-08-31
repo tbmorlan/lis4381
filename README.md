@@ -14,7 +14,6 @@
     - Install Android Studio and create My First App
     - Provide screenshots of installations 
     - Create Bitbucket repo
-    - Complete Bitbucket tutorials (butbucketstationlocations and myteamquotes)
     - Provide git command descriptions
 
 
