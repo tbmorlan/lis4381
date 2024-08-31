@@ -9,13 +9,13 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-- Install AMPPS
-- Install JDK
-- Install Android Studio and create My First App
-- Provide screenshots of installations 
-- Create Bitbucket repo
-- Complete Bitbucket tutorials (butbucketstationlocations and myteamquotes)
-- Provide git command descriptions
+    - Install AMPPS
+    - Install JDK
+    - Install Android Studio and create My First App
+    - Provide screenshots of installations 
+    - Create Bitbucket repo
+    - Complete Bitbucket tutorials (butbucketstationlocations and myteamquotes)
+    - Provide git command descriptions
 
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
