@@ -21,7 +21,7 @@
 - Screenshot of running java Hello
 - Screenshot of running Android Studio - My First App
 - git commands w/short descriptions
-- Bitbucket repo links: a) this assignment and b) the completed tutorials above (butbucketstationlocations and myteamquotes)
+- Bitbucket repo links: this assignment and
 
 > This is a blockquote.
 > 
