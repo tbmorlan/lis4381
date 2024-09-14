@@ -27,7 +27,7 @@
 >
 
 #### *Screenshot of Skill Set 1*
-![Screenshot of Skill Set 2](img/ss1/even_or_odd "Screenshot of Skill Set 1")
+![Screenshot of Skill Set 2](img/ss1_even_or_odd "Screenshot of Skill Set 1")
 
 #### *Screenshot of Skill Set 2*
 ![Screenshot of Skill Set 2](img/ss2_largest_number.png "Screenshot of Skill Set 2")
