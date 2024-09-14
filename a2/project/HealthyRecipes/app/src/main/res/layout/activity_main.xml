@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="@color/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".MainActivity">
+
+    <include
+        android:id="@+id/myToolBar"
+        layout="@layout/toolbar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textColor="@color/white" />
+    <!--
+    Add both to Vertically *and* Horizontally center elements
+
+    Vertically centers element
+    app:Layout_constraintTop_toTopOf="parent"
+    app:Layout_constraintBottom_toBottomOf="parent"
+
+    Horizontally centers element
+    app:Layout_constraintRight_toRightOf="parent"
+    app:Layout_constraintLeft_toLeftOf="parent"
+    -->
+
+    <!-- Use "sp" for text size, as it is scaled with user's font size preference. Use dp for everything else! -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtTitle"
+        android:id="@+id/txtTitle"
+        app:layout_constraintTop_toBottomOf="@+id/myToolBar"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="35dp"
+        android:textSize="40sp"
+        android:textColor="@color/white"/>
+
+    <!--
+        @+id/identifier: creates id named "identifier" in application namespace
+        @id/foo: refers to id defined in Android namespace
+        Note: '+' creates id if it doesn't already exist
+    -->
+
+    <!-- vertically/horizontally center image -->
+    <ImageView
+        android:id="@+id/imgRecipe"
+        android:layout_width="332dp"
+        android:layout_height="247dp"
+        android:contentDescription="@string/description"
+        android:src="@drawable/bruschetta"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--
+    android:layout_centerVertical="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true"
+    -->
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnRecipe"
+        android:id="@+id/btnRecipe"
+        app:layout_constraintTop_toBottomOf="@id/imgRecipe"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:textSize="24sp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
