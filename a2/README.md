@@ -26,6 +26,12 @@
 > This is the second paragraph in the blockquote.
 >
 
+#### *Screenshot of Working App - First Interface*
+![Screenshot of Working App - First Interface](img/application_running_first_interface.png "Screenshot of Working App - First Interface")
+
+#### *Screenshot of Working App - Second Interface*
+![Screenshot of Working App - Second Interface](img/application_running_second_interface.png "Screenshot of Working App - Second Interface")
+
 #### *Screenshot of Skill Set 1*
 ![Screenshot of Skill Set 1](img/ss1_even_or_odd.png "Screenshot of Skill Set 1")
 
