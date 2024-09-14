@@ -18,6 +18,9 @@
 
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Screenshot of Working App With Both Interfaces
+    - Working App Showing Changed Background Color and Text Color
+    - Screenshots of Skill Sets
 
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
