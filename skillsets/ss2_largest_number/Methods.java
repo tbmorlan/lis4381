@@ -1,3 +1,4 @@
+// Program Does no Data Validation - Bad!
 import java.util.Scanner;
 
 public class Methods {
