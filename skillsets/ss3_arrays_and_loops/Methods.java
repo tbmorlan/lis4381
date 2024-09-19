@@ -1,5 +1,6 @@
 // Program Does no Data Validation - Bad!
-import java.util.Scanner;
+// import java.util.scanner
+// scanner not used; commented out
 
 public class Methods {
 
