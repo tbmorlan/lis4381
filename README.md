@@ -19,8 +19,11 @@
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - Screenshot of Working App With Both Interfaces
-    - Working App Showing Changed Background Color and Text Color
-    - Screenshots of Skill Sets
+    - Change Background Colors of app, button, and toolbar.
+    - Add background border to image.
+    - Add favicon in toolbar.
+    - Skill Sets
+    - Chapter Questions (CHs 3, 4)
 
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
