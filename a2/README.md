@@ -12,8 +12,11 @@
 *Three Parts*
 
 1. Screenshot of Working App With Both Interfaces
-2. Skill Sets
-3. Chapter Questions (CHs 3, 4)
+2. Change Background Colors of app, button, and toolbar.
+3. Add background border to image.
+4. Add favicon in toolbar.
+5. Skill Sets
+6. Chapter Questions (CHs 3, 4)
 
 **README.md file should include the following items:**
 
