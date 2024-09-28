@@ -11,12 +11,12 @@
 
 *Six Parts*
 
-1. Screenshot of Working App With Both Interfaces
-2. Change Background Colors of app, button, and toolbar.
-3. Add background border to image.
-4. Add favicon in toolbar.
-5. Skill Sets
-6. Chapter Questions (CHs 3, 4)
+1. Create ERD based on business requirements
+2. Populate tables with data
+3. Forward engineer ERD and save as SQL file
+4. Create app that calculates total cost for concert tickets
+5. Skill sets
+6. Chapter Questions (CHs 5, 6)
 
 **README.md file should include the following items:**
 
