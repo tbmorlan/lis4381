@@ -32,13 +32,9 @@
 > This is the second paragraph in the blockquote.
 >
 
-
-| Image 1       | Image 2       | Image 3       |
-| ------------- | ------------- | ------------- |
 | *Screenshot of ERD* | *Screenshot of running application's opening user interface* | *Screenshot of running application's processing user input* |
-|![Screenshot of ERD](img/erd.png "Screenshot of ERD") | ![Screenshot of running application's opening user interface](img/opening_user_interface.png "Screenshot of running application's opening user interface") | ![Screenshot of running application's processing user input](img/processing_user_interface.png "Screenshot of running application's processing user input") |
-| Image 4       | Image 5       | Image 6       |
 | ------------- | ------------- | ------------- |
+|![Screenshot of ERD](img/erd.png "Screenshot of ERD") | ![Screenshot of running application's opening user interface](img/opening_user_interface.png "Screenshot of running application's opening user interface") | ![Screenshot of running application's processing user input](img/processing_user_interface.png "Screenshot of running application's processing user input") |
 | *Screenshots of table 1* | *Screenshots of table 2* | *Screenshots of table 3* |
 | ![Screenshots of table 1](img/table1.png "Screenshots of table 1") | ![Screenshots of table 2](img/table2.png "Screenshots of table 2") | ![Screenshots of table 3](img/table3.png "Screenshots of table 3") |
 
