@@ -45,7 +45,7 @@
 | *Screenshot of ERD* | *Screenshot of table 1* |
 | ------------- | ------------- |
 | ![Screenshots of ERD](img/erd.png "Screenshots of ERD") | ![Screenshots of table 1](img/table1.png "Screenshots of table 1") |
-| *Screenshot of table 2* | *Screenshot of table 3* |
+| ***Screenshot of table 2*** | ***Screenshot of table 3*** |
 | ![Screenshots of table 2](img/table2.png "Screenshots of table 2") | ![Screenshots of table 3](img/table3.png "Screenshots of table 3") |
 
 | *Screenshot of running application's opening user interface* | *Screenshot of running application's processing user input* |
