@@ -32,6 +32,9 @@
 > This is the second paragraph in the blockquote.
 >
 
+### Assignment Links & Screenshots
+
+*Link to [a3.mwb](docs/a3.mwb) & [a3.sql](docs/a3.sql)*
 
 | *Screenshot of ERD* | *Screenshots of table 1* |
 | ------------- | ------------- |
