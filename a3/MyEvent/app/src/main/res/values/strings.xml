@@ -1,0 +1,15 @@
+<!-- Array will be associated with a drop-down menu. -->
+<resources>
+    <string name="app_name">My Event</string>
+    <string name="txtTitle">Ticket Value</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="btnCost">Calculate</string>
+    <string-array name="txtGroup">
+        <item>The Doors</item>
+        <item>Steppenwolf</item>
+        <item>Judas Priest</item>
+        <item>Cream</item>
+    </string-array>
+</resources>

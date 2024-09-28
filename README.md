@@ -27,7 +27,11 @@
 
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-
+    - Create ERD in MySQL Workbench based on business rules provided
+    - Populate database
+    - Forward Engineer ERD
+    - Create SQL file based on ERD after successfully forward engineering
+    - Create app that calculates the total cost of concert tickets based on the amount needed
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
 

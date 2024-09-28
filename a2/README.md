@@ -9,7 +9,7 @@
 
 ### **Assignment 2 Requirements:**
 
-*Three Parts*
+*Six Parts*
 
 1. Screenshot of Working App With Both Interfaces
 2. Change Background Colors of app, button, and toolbar.
