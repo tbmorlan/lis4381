@@ -58,6 +58,8 @@
 | ------------- | ------------- |
 | ![Screenshot of Skill Set 4](img/skill_set_4.png "Skill Set 4") | ![Screenshot of Skill Set 5](img/skill_set_5.png "Skill Set 5") | 
 
+<div style="text-align: center;">
 | *Screenshot of Skill Set 6* |
 | ------------- |
 | ![Screenshot of Skill Set 6](img/skill_set_6.png "Skill Set 6") |
+</div>
