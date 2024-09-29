@@ -54,11 +54,11 @@
 
 ### **Skill Set Screenshots**
 
-| *Screenshot of Skill Set 4* | *Screenshot of Skill Set 5* |
+| *Screenshot of [Skill Set 4](../skillsets/ss4_decision_structures/Methods.java)* | *Screenshot of [Skill Set 5](../skillsets/ss5_random_number_generator/Methods.java)* |
 | ------------- | ------------- |
 | ![Screenshot of Skill Set 4](img/skill_set_4.png "Skill Set 4") | ![Screenshot of Skill Set 5](img/skill_set_5.png "Skill Set 5") | 
 
 
-| *Screenshot of Skill Set 6* |
+| *Screenshot of [Skill Set 6](../skillsets/ss6_methods/Methods.java) |
 | ------------- |
 | ![Screenshot of Skill Set 6](img/skill_set_6.png "Skill Set 6") |
