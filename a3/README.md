@@ -55,7 +55,7 @@
 ### **Skill Set Screenshots**
 
 | *Screenshot of Skill Set 4* | *Screenshot of Skill Set 5* |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | ![Screenshot of Skill Set 4](img/skill_set_4.png "Skill Set 4") | ![Screenshot of Skill Set 5](img/skill_set_5.png "Skill Set 5") | 
 
 | *Screenshot of Skill Set 6* |
