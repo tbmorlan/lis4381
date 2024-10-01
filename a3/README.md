@@ -47,6 +47,7 @@
 ![Screenshots of ERD](img/erd.png "Screenshots of ERD")
 
 *Screenshot of Tables*
+
 ![Screenshot of Tables](img/tables.png "Screenshot of Tables")
 
 | *Screenshot of running application's opening user interface* | *Screenshot of running application's processing user input* |
