@@ -1,0 +1,16 @@
+<resources>
+    <!-- main activity -->
+    <string name="app_name">My Business Card!</string>
+    <string name="txtTitle">Tanner Morlan</string>
+    <string name="description">Tanner Image</string>
+    <string name="btnDetails">DETAILS</string>
+
+    <!-- text items -->
+    <string name="txtItem1">Contact</string>
+    <string name="txtItem2">Florida State University</string>
+    <string name="txtItem3">Information Technology</string>
+    <string name="txtItem4">tbm22@fsu.edu</string>
+    <string name="txtItem5">(850) 865-6312</string>
+    <string name="txtItem6">Interests</string>
+    <string name="txtItem7">Data Analytics, Data Mining, Data Science, Data Engineering, Data Visualization, AI, Machine Learning, Full Stack Development, Python, R, SQL, Java, C, C++, C#, Rust, Zig, Visual Basic, Go, PHP, JavaScript, Excel, Statistics</string>
+</resources>
