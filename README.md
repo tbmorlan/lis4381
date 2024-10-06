@@ -40,6 +40,10 @@
 
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-
+    - Create business card app for myself
+    - Apply concepts learned from previous assignments to facilitate progress
+    - Include image, name, contact, and interests
+    - Use launcher icon and display it in both activities
+    - Ensure background color, image/button border, and text shadow were all functional
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
