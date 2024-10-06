@@ -33,7 +33,7 @@
 
 | *Screenshot of running application's opening user interface* | *Screenshot of running application's details page* |
 | ------------- | ------------- |
-| ![Screenshot of running application's opening user interface](img/main_page.png "Screenshot of running application's opening user interface") | ![Screenshot of running application's details page](img/detalis_page.png "Screenshot of running application's details page") |
+| ![Screenshot of running application's opening user interface](img/main_page.png "Screenshot of running application's opening user interface") | ![Screenshot of running application's details page](img/details_page.png "Screenshot of running application's details page") |
 
 ### **Skill Set Screenshots**
 
