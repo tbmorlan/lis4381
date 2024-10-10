@@ -16,7 +16,6 @@
     - Create Bitbucket repo
     - Provide git command descriptions
 
-
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - Screenshot of Working App With Both Interfaces
     - Change Background Colors of app, button, and toolbar.
@@ -24,7 +23,6 @@
     - Add favicon in toolbar.
     - Skill Sets
     - Chapter Questions (CHs 3, 4)
-
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - Create ERD in MySQL Workbench based on business rules provided
@@ -34,10 +32,10 @@
     - Create app that calculates the total cost of concert tickets based on the amount needed
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-
+    - TBD
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-
+    - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Create business card app for myself
@@ -47,3 +45,4 @@
     - Ensure background color, image/button border, and text shadow were all functional
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
+    - TBD
