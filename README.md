@@ -35,7 +35,11 @@
     - TBD
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Redesign Website
+    - Suitably modify meta tags
+    - Change title, navigation links, and header tags appropriately
+    - Add form controls to match atributes of petstore entity
+    - Add jQuery validation and regular expressions to form
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Create business card app for myself

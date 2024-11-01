@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
 	<meta name="author" content="Tanner Morlan">
-	<link rel="icon" href="favicon.ico">
+	<link rel="icon" href="../favicon.ico">
 
 	<title>LIS4381 - Assignment 4</title>
 		<?php include_once("../css/include_css.php"); ?>

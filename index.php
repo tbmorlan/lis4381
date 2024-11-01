@@ -91,14 +91,14 @@
 							<div class="item">
 								<div class="carousel-caption">
 									<img src="img/carousel2.png" class="img-responsive" alt="Slide 2">	
-									<a class="btn btn-large btn-primary" href="https://www.linkedin.com/in/tanner-morlan/" target = "_blank">Linkedin</a>				
+									<a class="btn btn-large btn-primary" href="https://www.linkedin.com/in/tanner-morlan/" target = "_blank">Profile</a>				
 								</div>
 							</div>
 
 							<div class="item">
 								<div class="carousel-caption">
 									<img src="img/carousel3.png" class="img-responsive" alt="Slide 3">	
-									<a class="btn btn-large btn-primary" href="https://github.com/tbmorlan/tanner-morlan-portfolio" target = "_blank">Github Portfolio</a>							
+									<a class="btn btn-large btn-primary" href="https://github.com/tbmorlan/tanner-morlan-portfolio" target = "_blank">Portfolio</a>							
 								</div>
 							</div>
 
