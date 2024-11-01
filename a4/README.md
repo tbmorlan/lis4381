@@ -37,6 +37,7 @@ validating: 'fa fa-refresh' - When the form is validating, a refresh icon will d
 ### **Assignment Screenshots**
 
 *Screenshot of LIS4381 Portal (Main Page)*
+
 ![Screenshot of LIS4381 Portal (Main Page)](img/lis4381_portal_main_page.png "Screenshot of LIS4381 Portal (Main Page)")
 
 | *Screenshot of Failed Validation* | *Screenshot of Passed Validation* |
