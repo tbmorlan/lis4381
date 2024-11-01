@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-		<meta name="author" content="Mark K. Jowett, Ph.D.">
+		<meta name="author" content="Tanner Morlan">
 		<link rel="icon" href="favicon.ico">
 
 		<title>My Online Portfolio</title>
@@ -22,9 +22,16 @@
 			 font-size: 52px;
 			 font-family: "trebuchet ms", sans-serif;    
 		 }
+		 h3
+		 {
+			color: #666;
+			padding: 0px;
+			font-size: 32px;
+			font-family: "trebuchet ms", sans-serif;    
+		 }
 		 .item
 		 {
-			 background: #333;    
+			 background: #fff;    
 			 text-align: center;
 			 height: 300px !important;
 		 }
@@ -46,7 +53,8 @@
 		<div class="container">
 			<div class="starter-template">
 				<div class="page-header">
-					<?php include_once("global/header.php"); ?>	
+					<?php include_once("global/header.php"); ?>
+					<h3>Tanner Morlan</h3>
 				</div>
 
 				<!-- Start Bootstrap Carousel  -->
@@ -70,30 +78,27 @@
 						<div class="carousel-inner">
 
 							<!-- -Note: you will need to modify the code to make it work with *both* text and images.  -->
-							<div class="active item" style="background: url(img/yourimage.jpg) no-repeat left center; background-size: cover;">
+							<div class="active item" style="background: url(img/carousel1.png) no-repeat left center; background-size: cover;">
+							
 								<div class="container">
 									<div class="carousel-caption">
-										<h3>First slide label</h3>
-										<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+									<a class="btn btn-large btn-primary" href="https://tannermorlan.com/" target = "_blank">Personal Website</a>
                         </div>
                       </div>
                     </div>
+					
               
 							<div class="item">
-								<h2>Slide 2</h2>
 								<div class="carousel-caption">
-									<h3>Second slide label</h3>
-									<p>Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
-									<img src="img/slide2.png" alt="Slide 2">									
+									<img src="img/carousel2.png" class="img-responsive" alt="Slide 2">	
+									<a class="btn btn-large btn-primary" href="https://www.linkedin.com/in/tanner-morlan/" target = "_blank">Linkedin</a>				
 								</div>
 							</div>
 
 							<div class="item">
-								<h2>Slide 3</h2>
 								<div class="carousel-caption">
-									<h3>Third slide label</h3>
-									<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-									<img src="img/slide3.png" alt="Slide 3">									
+									<img src="img/carousel3.png" class="img-responsive" alt="Slide 3">	
+									<a class="btn btn-large btn-primary" href="https://github.com/tbmorlan/tanner-morlan-portfolio" target = "_blank">Github Portfolio</a>							
 								</div>
 							</div>
 

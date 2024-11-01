@@ -1,4 +1,4 @@
-	<nav class="navbar navbar-inverse navbar-fixed-top">
+	<nav class="navbar navbar-fixed-top">
 		<div class="container">			
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -7,12 +7,13 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#" target="_self">Home</a>
+				<a class="navbar-brand" href="../index.php" target="_self">Home</a>
 			</div>
 
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="../index.php">CRSXXXX</a></li>
+					<li><a href="https://tannermorlan.com/" target="_blank"><img src="../img/favicon.png" style="height: 20px"></a></li>
+					<li class="active"><a href="../index.php">LIS4381</a></li>
 					<li><a href="../a1/index.php">A1</a></li>
 					<li><a href="../a2/index.php">A2</a></li>
 					<li><a href="../a3/index.php">A3</a></li>
