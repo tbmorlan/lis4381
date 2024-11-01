@@ -32,14 +32,14 @@
     - Create app that calculates the total cost of concert tickets based on the amount needed
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
-
-5. [A5 README.md](a5/README.md "My A5 README.md file")
     - Redesign Website
     - Suitably modify meta tags
     - Change title, navigation links, and header tags appropriately
     - Add form controls to match atributes of petstore entity
     - Add jQuery validation and regular expressions to form
+
+5. [A5 README.md](a5/README.md "My A5 README.md file")
+    - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Create business card app for myself
