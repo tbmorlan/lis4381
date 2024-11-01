@@ -1,0 +1,1 @@
+For test purposes, you can place test files in this folder.
