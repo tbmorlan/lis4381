@@ -57,63 +57,63 @@
 								<div class="form-group">
 										<label class="col-sm-4 control-label">Name:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="name" placeholder="(max 30 characters)"/>
+												<input type="text" class="form-control" maxlength="30" name="name" placeholder="(max 30 characters)"/>
 										</div>
 								</div>
 
 								<div class="form-group">
 										<label class="col-sm-4 control-label">Street:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="street" placeholder="(max 30 characters)"/>
+												<input type="text" class="form-control" maxlength="30" name="street" placeholder="(max 30 characters)"/>
 										</div>
 								</div>
 
 								<div class="form-group">
 										<label class="col-sm-4 control-label">City:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="city" placeholder="(max 30 characters)"/>
+												<input type="text" class="form-control" maxlength="30" name="city" placeholder="(max 30 characters)"/>
 										</div>
 								</div>
 
 								<div class="form-group">
 										<label class="col-sm-4 control-label">State:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="state" placeholder="Example: FL"/>
+												<input type="text" class="form-control" maxlength="2" name="state" placeholder="Example: FL"/>
 										</div>
 								</div>
 
 								<div class="form-group">
 										<label class="col-sm-4 control-label">Zip:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="zip" placeholder="(5 or 9 digits no dashes)"/>
+												<input type="text" class="form-control" maxlength="9" name="zip" placeholder="(5 or 9 digits no dashes)"/>
 										</div>
 								</div>
 
 								<div class="form-group">
 										<label class="col-sm-4 control-label">Phone:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="phone" placeholder="(10 digits no other characters)"/>
+												<input type="text" class="form-control" maxlength="10" name="phone" placeholder="(10 digits no other characters)"/>
 										</div>
 								</div>
 
 								<div class="form-group">
 										<label class="col-sm-4 control-label">Email:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="email" placeholder="Example: jdoe@aol.com"/>
+												<input type="text" class="form-control" maxlength="100" name="email" placeholder="Example: jdoe@aol.com"/>
 										</div>
 								</div>
 
 								<div class="form-group">
 										<label class="col-sm-4 control-label">URL:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="url" placeholder="Example: www.jdoe.com"/>
+												<input type="text" class="form-control" maxlength="100" name="url" placeholder="Example: www.jdoe.com"/>
 										</div>
 								</div>
 
 								<div class="form-group">
 										<label class="col-sm-4 control-label">YTD Sales:</label>
 										<div class="col-sm-4">
-												<input type="text" class="form-control" name="ytdsales" placeholder="Example: 100.00 (no other characters)"/>
+												<input type="text" class="form-control" maxlength="10" name="ytdsales" placeholder="Example: 100.00 (no other characters)"/>
 										</div>
 								</div>
 

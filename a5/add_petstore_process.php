@@ -6,7 +6,7 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 //use for inital test of form inputs
-exit(print_r($_POST));
+//exit(print_r($_POST));
 
 //exit(print_r($_POST)); //display $_POST array values from form
 
@@ -32,7 +32,7 @@ $pst_ytd_sales_v = $_POST['ytdsales'];
 $pst_notes_v = $_POST['notes'];
 
 //use exit() to stop processing and test variable values
-exit($pst_name . ", " . $pst_street_v . ", " . $pst_city_v . ", " . $pst_state_v . ", " . $pst_zip_v . ", " . $pst_phone_v . ", " . $pst_email_v . ", " . $pst_url_v . ", " . $pst_ytd_sales_v . ", " . $pst_notes_v);
+//exit($pst_name_v . ", " . $pst_street_v . ", " . $pst_city_v . ", " . $pst_state_v . ", " . $pst_zip_v . ", " . $pst_phone_v . ", " . $pst_email_v . ", " . $pst_url_v . ", " . $pst_ytd_sales_v . ", " . $pst_notes_v);
 
 //server-side validation
 $pattern='/^[a-zA-Z0-9\-_\s]+$/';
@@ -47,7 +47,7 @@ $valid_city = preg_match($pattern, $pst_city_v);
 $pattern='/^[a-zA-Z]{2,2}+$/';
 $valid_state = preg_match($pattern, $pst_state_v);
 
-$pattern='/^d{5,9}+$/';
+$pattern='/^\d{5,9}+$/';
 $valid_zip = preg_match($pattern, $pst_zip_v);
 
 $pattern='/^\d{10}+$/';

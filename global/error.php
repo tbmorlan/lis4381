@@ -14,14 +14,16 @@
 <body>
 	<?php include_once("../global/nav.php"); ?>
 	
-	<div class="container">
-			<div class="starter-template">
-			<div class="row">
-					<div class="col-xs-12">
-						
-						<div class="page-header">
-							<?php include_once("global/header.php"); ?>	
-						</div>
+	<div class="container-fluid">
+		<div class="starter-template">
+					<div class="page-header">
+						<h1>Assignment 5</h1>
+						<h3>Basic server-side validation</h3>
+						<h3>Server-side validation, and prepared statements (helps prevent SQL injection).</h3>
+						<h3>Displays user-entered data, and permits users to add data.</h3>
+						<h3>(See P2 to update and delete pet store data)</h3>
+						<p>(Table: petstore)</p>
+					</div>
 
 				<h2 class="top">Error!</h2>
 

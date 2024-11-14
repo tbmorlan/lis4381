@@ -46,7 +46,7 @@ $statement->execute();
 
 	<?php include_once("../global/nav.php"); ?>
 	
-	<div class="container">
+	<div class="container-fluid">
 		<div class="starter-template">
 					<div class="page-header">
 						<h1>Assignment 5</h1>
@@ -94,22 +94,20 @@ $statement->execute();
   			<td><?php echo htmlspecialchars($result['pst_url']); ?></td>
   			<td class="text-right"><?php echo htmlspecialchars($result['pst_ytd_sales']); ?></td>
 			<td><?php echo htmlspecialchars($result['pst_notes']); ?></td>
-
 			<td>
-				<form action = "edit_petstore.php" method = "post" id = "edit_petstore">
-					<input type = "hidden" name = "pst_id" value = "<?php echo $result['pst_id']; ?>" />
-					<button type = "submit" class = "btn btn-info">Edit</button>
+				<form action="edit_petstore.php" method="post" id="edit_petstore">
+					<input type="hidden" name="pst_id" value="<?php echo $result['pst_id']; ?>" />
+					<button type="submit" class="btn btn-info">Edit</button>
 				</form>
 			</td>
-
 			<td>
 				<form
-					onsubmit = "return confirm('Do you really want to delete record?');"
+					onsubmit="return confirm('Do you really want to delete record?');"
 						action="delete_petstore.php"
 						method="post"
 						id="delete_petstore">
-					<input type = "hidden" name = "pst_id" value = "<?php echo $result['pst_id']; ?>" />
-					<button type = "submit" class = "btn btn-danger">Delete</button>
+					<input type="hidden" name="pst_id" value="<?php echo $result['pst_id']; ?>" />
+					<button type="submit" class="btn btn-danger">Delete</button>
 				</form>
 			</td>
 		</tr>
@@ -143,7 +141,7 @@ $statement->execute();
 				 //2nd inner array: number listed in the drop-down menu
 				 //Note: -1 is used to disable pagination (i.e., display all rows), use with "All"
 				 //Note: pageLength property automatically set to first value given in array: here, 10
-				 "lengthMenu": [ [5, 25, 50, -1], [5, 25, 50, "All"] ],
+				 "lengthMenu": [ [5, 10, 25, 50, -1], [5, 10, 25, 50, "All"] ],
 	 //permit sorting (i.e., no sorting on last two columns: delete and edit)
     "columns":
 		[
