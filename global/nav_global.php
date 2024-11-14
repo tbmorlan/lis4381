@@ -13,7 +13,7 @@
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li><a href="https://tannermorlan.com/" target="_blank"><img src="img/favicon.png" style="height: 20px"></a></li>
-					<li class="active"><a href="index.php">LIS4381</a></li>
+					<li class="active"><a href="simple_calculator/index.php">LIS4381</a></li>
 					<li><a href="a1/index.php">A1</a></li>
 					<li><a href="a2/index.php">A2</a></li>
 					<li><a href="a3/index.php">A3</a></li>
