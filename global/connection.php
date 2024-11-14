@@ -6,9 +6,9 @@ $options = array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION);
 //example:
 if ($IP=="local")
 { //Data source name (DSN) contains information about a specific database in order to connect to it.
-	$dsn = 'mysql:host=localhost;port=3306;dbname=yourdbname';
-	$username = 'yourusername';
-	$password = 'yourpassword';
+	$dsn = 'mysql:host=localhost;port=3306;dbname=tbm22';
+	$username = 'root';
+	$password = 'mysql';
 }
 
 //contact your Web host for DB connection documentation
