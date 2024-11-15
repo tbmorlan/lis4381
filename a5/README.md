@@ -59,6 +59,7 @@
 | *Screenshot of Calculator (Addition)* | *Screenshot of Addition Function Process* |
 | ------------- | ------------- |
 | ![Screenshot of Calculator (Addition)](img/simple_calculator_addition.png "Screenshot of Calculator (Addition)") | ![Screenshot of Addition Function Process](img/process_functions_addition.png "Screenshot of Addition Function Process") |
+
 | *Screenshot of Calculator (Division)* | *Screenshot of Division Function Process* |
 | ------------- | ------------- |
 | ![Screenshot of Calculator (Division)](img/simple_calculator_division.png "Screenshot of Calculator (Division)") | ![Screenshot of Division Function Process](img/process_functions_division.png "Screenshot of Division Function Process") |
