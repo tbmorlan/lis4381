@@ -39,7 +39,11 @@
     - Add jQuery validation and regular expressions to form
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Use server-side validation to ensure data being entered is correct. Use regular expressions.
+    - Show failed validation
+    - Show passed validation
+    - Once validation is tested, use HTML to limit the number of characters for each control.
+    - Create php calculator program, and program to write and read from the same file.
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Create business card app for myself
