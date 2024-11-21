@@ -7,24 +7,26 @@
 
 ## Tanner Morlan
 
-### **Assignment 5 Requirements:**
+### **Project 2 Requirements:**
 
 *Five Parts*
 
-1. Use server-side validation to ensure data being entered is correct. Use regular expressions.
-2. Show failed validation
-3. Show passed validation
-4. Once validation is tested, use HTML to limit the number of characters for each control.
-5. Create php calculator program, and program to write and read from the same file.
+1. Build upon A5
+2. Maintain previous server-side validation
+3. Use prepared statements to help prevent SQL injection
+4. Add edit functionality
+5. Add ability to delete records
 
 **README.md file should include the following items:**
 
-- Screenshot of Assignment 5 main page showing the data from the database
-- Screenshot of invalid data on the add petstore page.
-- Screenshot of the invalid data after processing.
-- Screenshot of valid data on the add petstore page.
-- Screenshot of the valid data after processing.
-- Screenshot of skill sets.
+- Screenshot of Main Page
+- Screenshot of Project 2 Index
+- Screenshot of Edit Petstore & New Entry
+- Screenshot of Failed Validation
+- Screenshot of Passed Validation
+- Screenshot of Delete Record Prompt
+- Screenshot of Successful Record Deletion
+- Screenshot of RSS Feed
 
 > This is a blockquote.
 > 
@@ -33,39 +35,24 @@
 
 ### **Assignment Screenshots**
 
-*Screenshot of Assignment 5 main page showing the data from the database*
+*Screenshot of Main Page*
+![Screenshot of Main Page](img/home_page.png "Screenshot of Main Page")
 
-![Screenshot of Assignment 5 main page showing the data from the database](img/index.png "Screenshot of Assignment 5 main page showing the data from the database")
+*Screenshot of Project 2 Index*
+![Screenshot of Project 2 Index](img/index.png "Screenshot of Project 2 Index")
 
-| *Screenshot of invalid data on the add petstore page* | *Screenshot of the invalid data after processing* |
+| *Screenshot of Edit Petstore & New Entry* | *Screenshot of Failed Validation* |
 | ------------- | ------------- |
-| ![Screenshot of invalid data on the add petstore page](img/add_petstore_invalid.png "Screenshot of invalid data on the add petstore page") | ![Screenshot of the invalid data after processing](img/add_petstore_process_failed_validation.png "Screenshot of the invalid data after processing") |
+| ![Screenshot of Edit Petstore & New Entry](img/edit_petstore.png "Screenshot of Edit Petstore & New Entry") | ![Screenshot of Failed Validation](img/failed_validation.png "Screenshot of Failed Validation") |
 
+*Screenshot of Passed Validation*
+![Screenshot of Passed Validation](img/passed_validation.png "Screenshot of Passed Validation")
 
+*Screenshot of Delete Record Prompt*
+![Screenshot of Delete Record Prompt](img/delete_record_prompt.png "Screenshot of Delete Record Prompt")
 
-| *Screenshot of valid data on the add petstore page* | *Screenshot of the valid data after processing* |
-| ------------- | ------------- |
-| ![Screenshot of valid data on the add petstore page](img/add_petstore_valid.png "Screenshot of valid data on the add petstore page") | ![Screenshot of the valid data after processing](img/add_petstore_process_passed_validation.png "Screenshot of the valid data after processing") |
+*Screenshot of Successful Record Deletion*
+![Screenshot of Successful Record Deletion](img/successfully_deleted_record.png "Screenshot of Successful Record Deletion")
 
-### **Skill Set Screenshots**
-
-*Code for [Skill Set 13](../skillsets/ss13_sphere_volume_calculator/Methods.java)* 
-
-![Screenshot of Skill Set 13](img/ss13.png "Skill Set 13") 
-
-
-*Code for Skill Set 14: [index.php](../simple_calculator/index.php) and [process_functions.php](../simple_calculator/process_functions.php)*
-
-| *Screenshot of Calculator (Addition)* | *Screenshot of Addition Function Process* |
-| ------------- | ------------- |
-| ![Screenshot of Calculator (Addition)](img/simple_calculator_addition.png "Screenshot of Calculator (Addition)") | ![Screenshot of Addition Function Process](img/process_functions_addition.png "Screenshot of Addition Function Process") |
-
-| *Screenshot of Calculator (Division)* | *Screenshot of Division Function Process* |
-| ------------- | ------------- |
-| ![Screenshot of Calculator (Division)](img/simple_calculator_division.png "Screenshot of Calculator (Division)") | ![Screenshot of Division Function Process](img/process_functions_division.png "Screenshot of Division Function Process") |
-
-*Code for Skill Set 15: [index.php](../write_read_file/index.php) and [process.php](../write_read_file/process.php)*
-
-| *Screenshot of Write/Read Index* | *Screenshot of Write/Read File Process* |
-| ------------- | ------------- |
-| ![Screenshot of Write/Read Index](img/write_read_file_index.png "Screenshot of Write/Read Index") | ![Screenshot of Write/Read File Process](img/write_read_file_process.png "Screenshot of Write/Read File Process") |
+*Screenshot of RSS Feed*
+![Screenshot of RSS Feed](img/rss_feed.png "Screenshot of RSS Feed")
