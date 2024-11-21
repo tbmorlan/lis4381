@@ -53,4 +53,8 @@
     - Ensure background color, image/button border, and text shadow were all functional
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Build upon A5
+    - Maintain previous server-side validation
+    - Use prepared statements to help prevent SQL injection
+    - Add edit functionality
+    - Add ability to delete records
